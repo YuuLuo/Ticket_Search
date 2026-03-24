@@ -102,7 +102,6 @@ python main.py
 
 - 需要有效的 ExpertFlyer 账号
 - 浏览器登录状态保存在 `.browser_data/` 目录中，下次启动无需重新登录
-- `.browser_data/` 和 `results/` 已在 `.gitignore` 中排除
 
 ## License
 
